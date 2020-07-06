@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "881059352699",
+    "firebase_url": "https://kidiary.firebaseio.com",
+    "project_id": "kidiary",
+    "storage_bucket": "kidiary.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881059352699:android:64f7c55295db24db0b92de",
+        "android_client_info": {
+          "package_name": "org.techtown.diary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "881059352699-pt2sfesfonqagg5t9stii875mp8lms2v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNo2nYUExjlZUuYGTmYb4dZdS8RLc4ic0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "881059352699-pt2sfesfonqagg5t9stii875mp8lms2v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
