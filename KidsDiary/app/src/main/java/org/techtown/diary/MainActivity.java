@@ -19,12 +19,12 @@ import com.android.volley.Request;
 import com.google.android.material.bottomnavigation.BottomNavigationView;
 import com.pedro.library.AutoPermissions;
 import com.pedro.library.AutoPermissionsListener;
+import org.techtown.diary.data.WeatherItem;
+import org.techtown.diary.data.WeatherResult;
 import com.stanfy.gsonxml.GsonXml;
 import com.stanfy.gsonxml.GsonXmlBuilder;
 import com.stanfy.gsonxml.XmlParserCreator;
 
-import org.techtown.diary.data.WeatherItem;
-import org.techtown.diary.data.WeatherResult;
 import org.xmlpull.v1.XmlPullParser;
 import org.xmlpull.v1.XmlPullParserFactory;
 

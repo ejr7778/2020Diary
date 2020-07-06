@@ -1,5 +1,4 @@
 package org.techtown.diary;
-
 import android.app.Application;
 import android.util.Log;
 
